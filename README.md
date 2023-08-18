@@ -2,16 +2,16 @@
 
 ## A few details about myself:
 
-## My stack:
+### My stack:
 
 
-  ### Databases:
+  #### Databases:
     
       PostgreSQL
       MongoDB
   
   
-  ### Languages and other:
+  #### Languages and other:
 
       Python:
         Django/Flask
