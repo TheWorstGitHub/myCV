@@ -11,7 +11,7 @@
       MongoDB
   
   
-  ### Languages:
+  ### Languages and other:
 
       Python:
         Django/Flask
